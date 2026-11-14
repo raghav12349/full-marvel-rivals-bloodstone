@@ -193,3 +193,5 @@ Use the button in the Quick Start section.
 ---
 
 *Marvel Rivals · Updated 2026-11-14 · Shared under the MIT License*
+
+<!-- updated 2026-11-14 -->
